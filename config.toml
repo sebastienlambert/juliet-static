@@ -1,0 +1,38 @@
+languageCode = "en-us"
+title = "Juliet AI - Matching Expert"
+baseurl = "http://juliet-ai.dating/"
+theme = "aerial"
+publishDir = "docs"
+
+[params]
+  name = "Juliet AI"
+  about = "Meet Juliet, a new kind of dating service expert [Coming soon]"
+  copyright = "Untitled"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "Facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/julietaidating"
+
+[[params.social]]
+  medium = "Dribbble"
+  icon = "dribbble"
+  link = "#"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "#"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "#"
