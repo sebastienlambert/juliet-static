@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "WidgetCo Inc"
 canonifyUrls = "true"
 theme = "landing-page-hugo"
+publishDir = "docs"
 
 [params]
     description = "The best widgets in the world!"
