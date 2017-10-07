@@ -1,8 +1,7 @@
-baseurl = "http://juliet-ai.dating/"
+baseurl = "http://yourdomain.com"
 languageCode = "en-us"
 title = "WidgetCo Inc"
 canonifyUrls = "true"
-theme = "landing-page-hugo"
 
 [params]
     description = "The best widgets in the world!"
