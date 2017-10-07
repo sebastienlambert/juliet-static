@@ -5,6 +5,8 @@ languageCode = "en-US"
 canonifyurls = true
 paginate = 3
 theme = "hugo-dusk"
+publishDir = "../docs/personality"
+
 
 googleAnalytics = ""
 disqusShortname = ""
