@@ -8,23 +8,8 @@
   </url>
   
   <url>
-    <loc>http://smart-dating.online/personality/post/creating-a-new-theme/</loc>
+    <loc>http://smart-dating.online/personality/post/defender/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://smart-dating.online/personality/post/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://smart-dating.online/personality/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://smart-dating.online/personality/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,45 +18,47 @@
   </url>
   
   <url>
-    <loc>http://smart-dating.online/personality/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://smart-dating.online/personality/post/champion/</loc>
   </url>
   
   <url>
-    <loc>http://smart-dating.online/personality/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://smart-dating.online/personality/post/commander/</loc>
   </url>
   
   <url>
-    <loc>http://smart-dating.online/personality/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://smart-dating.online/personality/post/composer/</loc>
   </url>
   
   <url>
-    <loc>http://smart-dating.online/personality/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://smart-dating.online/personality/post/counselor/</loc>
   </url>
   
   <url>
-    <loc>http://smart-dating.online/personality/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://smart-dating.online/personality/post/craftman/</loc>
   </url>
   
   <url>
-    <loc>http://smart-dating.online/personality/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://smart-dating.online/personality/post/entrepreneur/</loc>
   </url>
   
   <url>
-    <loc>http://smart-dating.online/personality/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://smart-dating.online/personality/post/giver/</loc>
+  </url>
+  
+  <url>
+    <loc>http://smart-dating.online/personality/post/idealist/</loc>
+  </url>
+  
+  <url>
+    <loc>http://smart-dating.online/personality/post/inspector/</loc>
+  </url>
+  
+  <url>
+    <loc>http://smart-dating.online/personality/post/mastermind/</loc>
+  </url>
+  
+  <url>
+    <loc>http://smart-dating.online/personality/post/performer/</loc>
   </url>
   
   <url>
@@ -81,21 +68,30 @@
   </url>
   
   <url>
+    <loc>http://smart-dating.online/personality/post/provider/</loc>
+  </url>
+  
+  <url>
+    <loc>http://smart-dating.online/personality/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://smart-dating.online/personality/post/supervisor/</loc>
+  </url>
+  
+  <url>
     <loc>http://smart-dating.online/personality/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://smart-dating.online/personality/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://smart-dating.online/personality/post/thinker/</loc>
   </url>
   
   <url>
-    <loc>http://smart-dating.online/personality/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://smart-dating.online/personality/post/visionar/</loc>
   </url>
   
 </urlset>

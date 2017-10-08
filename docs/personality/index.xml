@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Themes</title>
+    <title>Smart Dating</title>
     <link>http://smart-dating.online/personality/</link>
-    <description>Recent content on Hugo Themes</description>
+    <description>Recent content on Smart Dating</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright (c) 2008 - 2014, all rights reserved.</copyright>
@@ -26,48 +26,147 @@ Setup Some fun facts about Hugo:
     </item>
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>http://smart-dating.online/personality/post/creating-a-new-theme/</link>
+      <title>Defender</title>
+      <link>http://smart-dating.online/personality/post/defender/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://smart-dating.online/personality/post/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <guid>http://smart-dating.online/personality/post/defender/</guid>
+      <description>Quiet, friendly, responsible, and conscientious. Committed and steady in meeting their obligations. Thorough, painstaking, and accurate. Loyal, considerate, notice and remember specifics about people who are important to them, concerned with how others feel. Strive to create an orderly and harmonious environment at work and at home.</description>
     </item>
     
     <item>
-      <title>(Hu)go Template Primer</title>
-      <link>http://smart-dating.online/personality/post/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Champion</title>
+      <link>http://smart-dating.online/personality/post/champion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://smart-dating.online/personality/post/goisforlovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
+      <guid>http://smart-dating.online/personality/post/champion/</guid>
+      <description>Warmly enthusiastic and imaginative. See life as full of possibilities. Make connections between events and information very quickly, and confidently proceed based on the patterns they see. Want a lot of affirmation from others, and readily give appreciation and support. Spontaneous and flexible, often rely on their ability to improvise and their verbal fluency.</description>
     </item>
     
     <item>
-      <title>Getting Started with Hugo</title>
-      <link>http://smart-dating.online/personality/post/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Commander</title>
+      <link>http://smart-dating.online/personality/post/commander/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://smart-dating.online/personality/post/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+      <guid>http://smart-dating.online/personality/post/commander/</guid>
+      <description>Frank, decisive, assume leadership readily. Quickly see illogical and inefficient procedures and policies, develop and implement comprehensive systems to solve organizational problems. Enjoy long-term planning and goal setting. Usually well informed, well read, enjoy expanding their knowledge and passing it on to others. Forceful in presenting their ideas.</description>
     </item>
     
     <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>http://smart-dating.online/personality/post/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <title>Composer</title>
+      <link>http://smart-dating.online/personality/post/composer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://smart-dating.online/personality/post/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <guid>http://smart-dating.online/personality/post/composer/</guid>
+      <description>Quiet, friendly, sensitive, and kind. Enjoy the present moment, what&amp;rsquo;s going on around them. Like to have their own space and to work within their own time frame. Loyal and committed to their values and to people who are important to them. Dislike disagreements and conflicts, do not force their opinions or values on others.</description>
+    </item>
+    
+    <item>
+      <title>Counselor</title>
+      <link>http://smart-dating.online/personality/post/counselor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://smart-dating.online/personality/post/counselor/</guid>
+      <description>Seek meaning and connection in ideas, relationships, and material possessions. Want to understand what motivates people and are insightful about others. Conscientious and committed to their firm values. Develop a clear vision about how best to serve the common good. Organized and decisive in implementing their vision.</description>
+    </item>
+    
+    <item>
+      <title>Craftman</title>
+      <link>http://smart-dating.online/personality/post/craftman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://smart-dating.online/personality/post/craftman/</guid>
+      <description>Tolerant and flexible, quiet observers until a problem appears, then act quickly to find workable solutions. Analyze what makes things work and readily get through large amounts of data to isolate the core of practical problems. Interested in cause and effect, organize facts using logical principles, value efficiency.</description>
+    </item>
+    
+    <item>
+      <title>Entrepreneur</title>
+      <link>http://smart-dating.online/personality/post/entrepreneur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://smart-dating.online/personality/post/entrepreneur/</guid>
+      <description>Flexible and tolerant, they take a pragmatic approach focused on immediate results. Theories and conceptual explanations bore them - they want to act energetically to solve the problem. Focus on the here-and-now, spontaneous, enjoy each moment that they can be active with others. Enjoy material comforts and style. Learn best through doing.</description>
+    </item>
+    
+    <item>
+      <title>Giver</title>
+      <link>http://smart-dating.online/personality/post/giver/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://smart-dating.online/personality/post/giver/</guid>
+      <description>Warm, empathetic, responsive, and responsible. Highly attuned to the emotions, needs, and motivations of others. Find potential in everyone, want to help others fulfill their potential. May act as catalysts for individual and group growth. Loyal, responsive to praise and criticism. Sociable, facilitate others in a group, and provide inspiring leadership.</description>
+    </item>
+    
+    <item>
+      <title>Idealist</title>
+      <link>http://smart-dating.online/personality/post/idealist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://smart-dating.online/personality/post/idealist/</guid>
+      <description>Idealistic, loyal to their values and to people who are important to them. Want an external life that is congruent with their values. Curious, quick to see possibilities, can be catalysts for implementing ideas. Seek to understand people and to help them fulfill their potential. Adaptable, flexible, and accepting unless a value is threatened.</description>
+    </item>
+    
+    <item>
+      <title>Inspector</title>
+      <link>http://smart-dating.online/personality/post/inspector/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://smart-dating.online/personality/post/inspector/</guid>
+      <description>Quiet, serious, earn success by thoroughness and dependability. Practical, matter-of-fact, realistic, and responsible. Decide logically what should be done and work toward it steadily, regardless of distractions. Take pleasure in making everything orderly and organized - their work, their home, their life. Value traditions and loyalty.</description>
+    </item>
+    
+    <item>
+      <title>Mastermind</title>
+      <link>http://smart-dating.online/personality/post/mastermind/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://smart-dating.online/personality/post/mastermind/</guid>
+      <description>Have original minds and great drive for implementing their ideas and achieving their goals. Quickly see patterns in external events and develop long-range explanatory perspectives. When committed, organize a job and carry it through. Skeptical and independent, have high standards of competence and performance - for themselves and others.</description>
+    </item>
+    
+    <item>
+      <title>Performer</title>
+      <link>http://smart-dating.online/personality/post/performer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://smart-dating.online/personality/post/performer/</guid>
+      <description>Outgoing, friendly, and accepting. Exuberant lovers of life, people, and material comforts. Enjoy working with others to make things happen. Bring common sense and a realistic approach to their work, and make work fun. Flexible and spontaneous, adapt readily to new people and environments. Learn best by trying a new skill with other people.</description>
+    </item>
+    
+    <item>
+      <title>Provider</title>
+      <link>http://smart-dating.online/personality/post/provider/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://smart-dating.online/personality/post/provider/</guid>
+      <description>Warmhearted, conscientious, and cooperative. Want harmony in their environment, work with determination to establish it. Like to work with others to complete tasks accurately and on time. Loyal, follow through even in small matters. Notice what others need in their day-by-day lives and try to provide it. Want to be appreciated for who they are and for what they contribute.</description>
+    </item>
+    
+    <item>
+      <title>Supervisor</title>
+      <link>http://smart-dating.online/personality/post/supervisor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://smart-dating.online/personality/post/supervisor/</guid>
+      <description>Practical, realistic, matter-of-fact. Decisive, quickly move to implement decisions. Organize projects and people to get things done, focus on getting results in the most efficient way possible. Take care of routine details. Have a clear set of logical standards, systematically follow them and want others to also. Forceful in implementing their plans.</description>
+    </item>
+    
+    <item>
+      <title>Thinker</title>
+      <link>http://smart-dating.online/personality/post/thinker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://smart-dating.online/personality/post/thinker/</guid>
+      <description>Seek to develop logical explanations for everything that interests them. Theoretical and abstract, interested more in ideas than in social interaction. Quiet, contained, flexible, and adaptable. Have unusual ability to focus in depth to solve problems in their area of interest. Skeptical, sometimes critical, always analytical.</description>
+    </item>
+    
+    <item>
+      <title>Visionary</title>
+      <link>http://smart-dating.online/personality/post/visionar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://smart-dating.online/personality/post/visionar/</guid>
+      <description>Quick, ingenious, stimulating, alert, and outspoken. Resourceful in solving new and challenging problems. Adept at generating conceptual possibilities and then analyzing them strategically. Good at reading other people. Bored by routine, will seldom do the same thing the same way, apt to turn to one new interest after another.</description>
     </item>
     
   </channel>

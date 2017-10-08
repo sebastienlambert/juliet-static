@@ -1,12 +1,12 @@
 baseurl = "http://smart-dating.online/"
 languageCode = "en-us"
-title = "WidgetCo Inc"
+title = "Juliet AI"
 canonifyUrls = "true"
 theme = "landing-page-hugo"
 publishDir = "docs"
 
 [params]
-    description = "The best widgets in the world!"
+    description = "Meet Juliet, a new kind of dating service expert"
     custom_css = ["css/local.css"]
 
 [[params.social]]
@@ -22,6 +22,6 @@ publishDir = "docs"
     icon = "github"
     url = "https://github.com/IronSummitMedia/startbootstrap"
 [[params.social]]
-    title = "linkedin"
-    icon = "linkedin"
-    url = "http://linkedin.com/in/yourusername"
+    title = "facebook"
+    icon = "facebook"
+    url = "https://www.facebook.com/smartdatingonline"

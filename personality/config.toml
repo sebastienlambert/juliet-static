@@ -1,5 +1,5 @@
 baseurl = "http://smart-dating.online/personality/"
-title = "Hugo Themes"
+title = "Smart Dating"
 copyright = "Copyright (c) 2008 - 2014, all rights reserved."
 languageCode = "en-US"
 canonifyurls = true
@@ -14,10 +14,10 @@ disqusShortname = ""
 SectionPagesMenu = "main"
 
 [[menu.main]]
-  name = "Posts"
+  name = "Home"
   weight = -120
-  identifier = "post"
-  url = "/post/"
+  identifier = "home"
+  url = "../"
 
 [[menu.main]]
   name = "Tags"
@@ -33,8 +33,8 @@ SectionPagesMenu = "main"
   description = "Personal blog."
 
 [params]
-  email = "myemail"
-  github = "github id"
+  #email = "myemail"
+  #github = "github id"
   #gitlab = "gitlab id"
-  twitter = "twitter id"
+  #twitter = "twitter id"
   #linkedin = "linkedin id"

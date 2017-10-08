@@ -1,33 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Hugo Themes</title>
+    <title>Categories on Smart Dating</title>
     <link>http://smart-dating.online/personality/categories/</link>
-    <description>Recent content in Categories on Hugo Themes</description>
+    <description>Recent content in Categories on Smart Dating</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright (c) 2008 - 2014, all rights reserved.</copyright>
     
 	<atom:link href="http://smart-dating.online/personality/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Development</title>
-      <link>http://smart-dating.online/personality/categories/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://smart-dating.online/personality/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Golang</title>
-      <link>http://smart-dating.online/personality/categories/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://smart-dating.online/personality/categories/golang/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
