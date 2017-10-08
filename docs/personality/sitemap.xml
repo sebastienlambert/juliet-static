@@ -8,7 +8,7 @@
   </url>
   
   <url>
-    <loc>http://smart-dating.online/personality/post/defender/</loc>
+    <loc>http://smart-dating.online/personality/types/defender/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,57 +18,51 @@
   </url>
   
   <url>
-    <loc>http://smart-dating.online/personality/post/champion/</loc>
+    <loc>http://smart-dating.online/personality/types/champion/</loc>
   </url>
   
   <url>
-    <loc>http://smart-dating.online/personality/post/commander/</loc>
+    <loc>http://smart-dating.online/personality/types/commander/</loc>
   </url>
   
   <url>
-    <loc>http://smart-dating.online/personality/post/composer/</loc>
+    <loc>http://smart-dating.online/personality/types/composer/</loc>
   </url>
   
   <url>
-    <loc>http://smart-dating.online/personality/post/counselor/</loc>
+    <loc>http://smart-dating.online/personality/types/counselor/</loc>
   </url>
   
   <url>
-    <loc>http://smart-dating.online/personality/post/craftman/</loc>
+    <loc>http://smart-dating.online/personality/types/craftman/</loc>
   </url>
   
   <url>
-    <loc>http://smart-dating.online/personality/post/entrepreneur/</loc>
+    <loc>http://smart-dating.online/personality/types/entrepreneur/</loc>
   </url>
   
   <url>
-    <loc>http://smart-dating.online/personality/post/giver/</loc>
+    <loc>http://smart-dating.online/personality/types/giver/</loc>
   </url>
   
   <url>
-    <loc>http://smart-dating.online/personality/post/idealist/</loc>
+    <loc>http://smart-dating.online/personality/types/idealist/</loc>
   </url>
   
   <url>
-    <loc>http://smart-dating.online/personality/post/inspector/</loc>
+    <loc>http://smart-dating.online/personality/types/inspector/</loc>
   </url>
   
   <url>
-    <loc>http://smart-dating.online/personality/post/mastermind/</loc>
+    <loc>http://smart-dating.online/personality/types/mastermind/</loc>
   </url>
   
   <url>
-    <loc>http://smart-dating.online/personality/post/performer/</loc>
+    <loc>http://smart-dating.online/personality/types/performer/</loc>
   </url>
   
   <url>
-    <loc>http://smart-dating.online/personality/post/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://smart-dating.online/personality/post/provider/</loc>
+    <loc>http://smart-dating.online/personality/types/provider/</loc>
   </url>
   
   <url>
@@ -78,7 +72,7 @@
   </url>
   
   <url>
-    <loc>http://smart-dating.online/personality/post/supervisor/</loc>
+    <loc>http://smart-dating.online/personality/types/supervisor/</loc>
   </url>
   
   <url>
@@ -87,11 +81,17 @@
   </url>
   
   <url>
-    <loc>http://smart-dating.online/personality/post/thinker/</loc>
+    <loc>http://smart-dating.online/personality/types/thinker/</loc>
   </url>
   
   <url>
-    <loc>http://smart-dating.online/personality/post/visionar/</loc>
+    <loc>http://smart-dating.online/personality/types/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://smart-dating.online/personality/types/visionar/</loc>
   </url>
   
 </urlset>
