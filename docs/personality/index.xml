@@ -7,67 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright (c) 2008 - 2014, all rights reserved.</copyright>
-    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://smart-dating.online/personality/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About</title>
-      <link>http://smart-dating.online/personality/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://smart-dating.online/personality/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
-    </item>
-    
-    <item>
-      <title>Defender</title>
-      <link>http://smart-dating.online/personality/types/defender/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://smart-dating.online/personality/types/defender/</guid>
-      <description>Quiet, friendly, responsible, and conscientious. Committed and steady in meeting their obligations. Thorough, painstaking, and accurate. Loyal, considerate, notice and remember specifics about people who are important to them, concerned with how others feel. Strive to create an orderly and harmonious environment at work and at home.</description>
-    </item>
-    
-    <item>
-      <title>Champion</title>
-      <link>http://smart-dating.online/personality/types/champion/</link>
+      <title>Achiever</title>
+      <link>http://smart-dating.online/personality/types/achiever/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://smart-dating.online/personality/types/champion/</guid>
-      <description>Warmly enthusiastic and imaginative. See life as full of possibilities. Make connections between events and information very quickly, and confidently proceed based on the patterns they see. Want a lot of affirmation from others, and readily give appreciation and support. Spontaneous and flexible, often rely on their ability to improvise and their verbal fluency.</description>
+      <guid>http://smart-dating.online/personality/types/achiever/</guid>
+      <description>Flexible and tolerant, they take a pragmatic approach focused on immediate results. Theories and conceptual explanations bore them - they want to act energetically to solve the problem. Focus on the here-and-now, spontaneous, enjoy each moment that they can be active with others. Enjoy material comforts and style. Learn best through doing.</description>
     </item>
     
     <item>
-      <title>Commander</title>
-      <link>http://smart-dating.online/personality/types/commander/</link>
+      <title>Artist</title>
+      <link>http://smart-dating.online/personality/types/artist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://smart-dating.online/personality/types/commander/</guid>
-      <description>Frank, decisive, assume leadership readily. Quickly see illogical and inefficient procedures and policies, develop and implement comprehensive systems to solve organizational problems. Enjoy long-term planning and goal setting. Usually well informed, well read, enjoy expanding their knowledge and passing it on to others. Forceful in presenting their ideas.</description>
-    </item>
-    
-    <item>
-      <title>Composer</title>
-      <link>http://smart-dating.online/personality/types/composer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://smart-dating.online/personality/types/composer/</guid>
+      <guid>http://smart-dating.online/personality/types/artist/</guid>
       <description>Quiet, friendly, sensitive, and kind. Enjoy the present moment, what&amp;rsquo;s going on around them. Like to have their own space and to work within their own time frame. Loyal and committed to their values and to people who are important to them. Dislike disagreements and conflicts, do not force their opinions or values on others.</description>
     </item>
     
     <item>
-      <title>Counselor</title>
-      <link>http://smart-dating.online/personality/types/counselor/</link>
+      <title>Captain</title>
+      <link>http://smart-dating.online/personality/types/captain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://smart-dating.online/personality/types/counselor/</guid>
-      <description>Seek meaning and connection in ideas, relationships, and material possessions. Want to understand what motivates people and are insightful about others. Conscientious and committed to their firm values. Develop a clear vision about how best to serve the common good. Organized and decisive in implementing their vision.</description>
+      <guid>http://smart-dating.online/personality/types/captain/</guid>
+      <description>Frank, decisive, assume leadership readily. Quickly see illogical and inefficient procedures and policies, develop and implement comprehensive systems to solve organizational problems. Enjoy long-term planning and goal setting. Usually well informed, well read, enjoy expanding their knowledge and passing it on to others. Forceful in presenting their ideas.</description>
+    </item>
+    
+    <item>
+      <title>Cheerleader</title>
+      <link>http://smart-dating.online/personality/types/chearleader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://smart-dating.online/personality/types/chearleader/</guid>
+      <description>Warmly enthusiastic and imaginative. See life as full of possibilities. Make connections between events and information very quickly, and confidently proceed based on the patterns they see. Want a lot of affirmation from others, and readily give appreciation and support. Spontaneous and flexible, often rely on their ability to improvise and their verbal fluency.</description>
     </item>
     
     <item>
@@ -80,93 +57,102 @@ Setup Some fun facts about Hugo:
     </item>
     
     <item>
-      <title>Entrepreneur</title>
-      <link>http://smart-dating.online/personality/types/entrepreneur/</link>
+      <title>Diplomat</title>
+      <link>http://smart-dating.online/personality/types/diplomat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://smart-dating.online/personality/types/entrepreneur/</guid>
-      <description>Flexible and tolerant, they take a pragmatic approach focused on immediate results. Theories and conceptual explanations bore them - they want to act energetically to solve the problem. Focus on the here-and-now, spontaneous, enjoy each moment that they can be active with others. Enjoy material comforts and style. Learn best through doing.</description>
-    </item>
-    
-    <item>
-      <title>Giver</title>
-      <link>http://smart-dating.online/personality/types/giver/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://smart-dating.online/personality/types/giver/</guid>
-      <description>Warm, empathetic, responsive, and responsible. Highly attuned to the emotions, needs, and motivations of others. Find potential in everyone, want to help others fulfill their potential. May act as catalysts for individual and group growth. Loyal, responsive to praise and criticism. Sociable, facilitate others in a group, and provide inspiring leadership.</description>
-    </item>
-    
-    <item>
-      <title>Idealist</title>
-      <link>http://smart-dating.online/personality/types/idealist/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://smart-dating.online/personality/types/idealist/</guid>
-      <description>Idealistic, loyal to their values and to people who are important to them. Want an external life that is congruent with their values. Curious, quick to see possibilities, can be catalysts for implementing ideas. Seek to understand people and to help them fulfill their potential. Adaptable, flexible, and accepting unless a value is threatened.</description>
-    </item>
-    
-    <item>
-      <title>Inspector</title>
-      <link>http://smart-dating.online/personality/types/inspector/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://smart-dating.online/personality/types/inspector/</guid>
-      <description>Quiet, serious, earn success by thoroughness and dependability. Practical, matter-of-fact, realistic, and responsible. Decide logically what should be done and work toward it steadily, regardless of distractions. Take pleasure in making everything orderly and organized - their work, their home, their life. Value traditions and loyalty.</description>
-    </item>
-    
-    <item>
-      <title>Mastermind</title>
-      <link>http://smart-dating.online/personality/types/mastermind/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://smart-dating.online/personality/types/mastermind/</guid>
-      <description>Have original minds and great drive for implementing their ideas and achieving their goals. Quickly see patterns in external events and develop long-range explanatory perspectives. When committed, organize a job and carry it through. Skeptical and independent, have high standards of competence and performance - for themselves and others.</description>
-    </item>
-    
-    <item>
-      <title>Performer</title>
-      <link>http://smart-dating.online/personality/types/performer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://smart-dating.online/personality/types/performer/</guid>
-      <description>Outgoing, friendly, and accepting. Exuberant lovers of life, people, and material comforts. Enjoy working with others to make things happen. Bring common sense and a realistic approach to their work, and make work fun. Flexible and spontaneous, adapt readily to new people and environments. Learn best by trying a new skill with other people.</description>
-    </item>
-    
-    <item>
-      <title>Provider</title>
-      <link>http://smart-dating.online/personality/types/provider/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://smart-dating.online/personality/types/provider/</guid>
+      <guid>http://smart-dating.online/personality/types/diplomat/</guid>
       <description>Warmhearted, conscientious, and cooperative. Want harmony in their environment, work with determination to establish it. Like to work with others to complete tasks accurately and on time. Loyal, follow through even in small matters. Notice what others need in their day-by-day lives and try to provide it. Want to be appreciated for who they are and for what they contribute.</description>
     </item>
     
     <item>
-      <title>Supervisor</title>
-      <link>http://smart-dating.online/personality/types/supervisor/</link>
+      <title>Director</title>
+      <link>http://smart-dating.online/personality/types/director/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://smart-dating.online/personality/types/supervisor/</guid>
+      <guid>http://smart-dating.online/personality/types/director/</guid>
       <description>Practical, realistic, matter-of-fact. Decisive, quickly move to implement decisions. Organize projects and people to get things done, focus on getting results in the most efficient way possible. Take care of routine details. Have a clear set of logical standards, systematically follow them and want others to also. Forceful in implementing their plans.</description>
     </item>
     
     <item>
-      <title>Thinker</title>
-      <link>http://smart-dating.online/personality/types/thinker/</link>
+      <title>Entertainer</title>
+      <link>http://smart-dating.online/personality/types/entertainer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://smart-dating.online/personality/types/thinker/</guid>
+      <guid>http://smart-dating.online/personality/types/entertainer/</guid>
+      <description>Outgoing, friendly, and accepting. Exuberant lovers of life, people, and material comforts. Enjoy working with others to make things happen. Bring common sense and a realistic approach to their work, and make work fun. Flexible and spontaneous, adapt readily to new people and environments. Learn best by trying a new skill with other people.</description>
+    </item>
+    
+    <item>
+      <title>Guardian</title>
+      <link>http://smart-dating.online/personality/types/guardian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://smart-dating.online/personality/types/guardian/</guid>
+      <description>Quiet, friendly, responsible, and conscientious. Committed and steady in meeting their obligations. Thorough, painstaking, and accurate. Loyal, considerate, notice and remember specifics about people who are important to them, concerned with how others feel. Strive to create an orderly and harmonious environment at work and at home.</description>
+    </item>
+    
+    <item>
+      <title>Hero</title>
+      <link>http://smart-dating.online/personality/types/hero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://smart-dating.online/personality/types/hero/</guid>
+      <description>Warm, empathetic, responsive, and responsible. Highly attuned to the emotions, needs, and motivations of others. Find potential in everyone, want to help others fulfill their potential. May act as catalysts for individual and group growth. Loyal, responsive to praise and criticism. Sociable, facilitate others in a group, and provide inspiring leadership.</description>
+    </item>
+    
+    <item>
+      <title>Innovator</title>
+      <link>http://smart-dating.online/personality/types/innovator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://smart-dating.online/personality/types/innovator/</guid>
+      <description>Quick, ingenious, stimulating, alert, and outspoken. Resourceful in solving new and challenging problems. Adept at generating conceptual possibilities and then analyzing them strategically. Good at reading other people. Bored by routine, will seldom do the same thing the same way, apt to turn to one new interest after another.</description>
+    </item>
+    
+    <item>
+      <title>Mentor</title>
+      <link>http://smart-dating.online/personality/types/mentor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://smart-dating.online/personality/types/mentor/</guid>
+      <description>Seek meaning and connection in ideas, relationships, and material possessions. Want to understand what motivates people and are insightful about others. Conscientious and committed to their firm values. Develop a clear vision about how best to serve the common good. Organized and decisive in implementing their vision.</description>
+    </item>
+    
+    <item>
+      <title>Optimist</title>
+      <link>http://smart-dating.online/personality/types/optimist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://smart-dating.online/personality/types/optimist/</guid>
+      <description>Idealistic, loyal to their values and to people who are important to them. Want an external life that is congruent with their values. Curious, quick to see possibilities, can be catalysts for implementing ideas. Seek to understand people and to help them fulfill their potential. Adaptable, flexible, and accepting unless a value is threatened.</description>
+    </item>
+    
+    <item>
+      <title>Philosopher</title>
+      <link>http://smart-dating.online/personality/types/philosopher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://smart-dating.online/personality/types/philosopher/</guid>
       <description>Seek to develop logical explanations for everything that interests them. Theoretical and abstract, interested more in ideas than in social interaction. Quiet, contained, flexible, and adaptable. Have unusual ability to focus in depth to solve problems in their area of interest. Skeptical, sometimes critical, always analytical.</description>
     </item>
     
     <item>
-      <title>Visionary</title>
-      <link>http://smart-dating.online/personality/types/visionar/</link>
+      <title>Strategist</title>
+      <link>http://smart-dating.online/personality/types/strategist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://smart-dating.online/personality/types/visionar/</guid>
-      <description>Quick, ingenious, stimulating, alert, and outspoken. Resourceful in solving new and challenging problems. Adept at generating conceptual possibilities and then analyzing them strategically. Good at reading other people. Bored by routine, will seldom do the same thing the same way, apt to turn to one new interest after another.</description>
+      <guid>http://smart-dating.online/personality/types/strategist/</guid>
+      <description>Have original minds and great drive for implementing their ideas and achieving their goals. Quickly see patterns in external events and develop long-range explanatory perspectives. When committed, organize a job and carry it through. Skeptical and independent, have high standards of competence and performance - for themselves and others.</description>
+    </item>
+    
+    <item>
+      <title>Tactician</title>
+      <link>http://smart-dating.online/personality/types/tactician/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://smart-dating.online/personality/types/tactician/</guid>
+      <description>Quiet, serious, earn success by thoroughness and dependability. Practical, matter-of-fact, realistic, and responsible. Decide logically what should be done and work toward it steadily, regardless of distractions. Take pleasure in making everything orderly and organized - their work, their home, their life. Value traditions and loyalty.</description>
     </item>
     
   </channel>

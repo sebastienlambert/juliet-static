@@ -20,6 +20,10 @@
   <a href="https://www.linkedin.com/in/{{.}}" target="_blank"><div class="social-link">LinkedIn</div></a>
   {{end}}
 
+  {{with .Site.Params.facebook}}
+  <a href="https://www.facebook.com/{{.}}" target="_blank"><div class="social-link">Facebook</div></a>
+  {{end}}
+  
   <div class="social-link">
   <a href="{{ .Site.RSSLink }}" target="_blank">RSS</a>
   </div>

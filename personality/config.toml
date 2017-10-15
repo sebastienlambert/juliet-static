@@ -11,7 +11,7 @@ publishDir = "../docs/personality"
 googleAnalytics = ""
 disqusShortname = ""
 
-SectionPagesMenu = "main"
+#SectionPagesMenu = "main"
 
 [[menu.main]]
   name = "Home"
@@ -19,12 +19,7 @@ SectionPagesMenu = "main"
   identifier = "home"
   url = "../"
 
-[[menu.main]]
-  name = "Tags"
-  weight = -110
-  identifier = "tag"
-  url = "/tags/"
-
+  
 [author]
   name = ""
 
@@ -38,3 +33,4 @@ SectionPagesMenu = "main"
   #gitlab = "gitlab id"
   #twitter = "twitter id"
   #linkedin = "linkedin id"
+  facebook = "facebookid"
