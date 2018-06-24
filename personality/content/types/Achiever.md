@@ -3,6 +3,8 @@ linktitle: Achiever
 title: Achiever
 #title:Entrepreneur
 #type: ESTP
+description: Achievers are energetic thrillseekers who are at their best when putting out fires, whether literal or metaphorical.
+imageurl: img/achiever.jpg
 ---
 
 Achievers are energetic thrillseekers who are at their best when putting out fires, whether literal or metaphorical. They bring a sense of dynamic energy to their interactions with others and the world around them. They assess situations quickly and move adeptly to respond to immediate problems with practical solutions.
