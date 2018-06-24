@@ -1,8 +1,10 @@
 ---
 linktitle: Hero
-title: Hero
+title: You are a Hero
 #title: Patron
 #type: ENFJ
+description: Heroes are idealist organizers, driven to implement their vision of what is best for humanity.
+imageurl: img/hero.jpg
 ---
 
 Heroes are idealist organizers, driven to implement their vision of what is best for humanity. They often act as catalysts for human growth because of their ability to see potential in other people and their charisma in persuading others to their ideas. They are focused on values and vision, and are passionate about the possibilities for people.

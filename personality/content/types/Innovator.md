@@ -1,7 +1,9 @@
 ---
 linktitle: Innovator
-title: Innovator
+title: You are an Innovator
 #type: ENTP
+description: Innovators are inspired innovators, motivated to find new solutions to intellectually challenging problems. 
+imageurl: img/innovator.jpg
 ---
 
 Innovators are inspired innovators, motivated to find new solutions to intellectually challenging problems. They are curious and clever, and seek to comprehend the people, systems, and principles that surround them. Open-minded and unconventional, Visionaries want to analyze, understand, and influence other people.

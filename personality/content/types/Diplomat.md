@@ -1,8 +1,10 @@
 ---
 linktitle: Diplomat
-title: Diplomat
+title: You are a Diplomat
 #Contributor
 #type: ESFJ
+description: Diplomats are conscientious helpers, sensitive to the needs of others and energetically dedicated to their responsibilities.
+imageurl: img/diplomat.jpg
 ---
 
 Diplomats are conscientious helpers, sensitive to the needs of others and energetically dedicated to their responsibilities. They are highly attuned to their emotional environment and attentive to both the feelings of others and the perception others have of them. Diplomats like a sense of harmony and cooperation around them, and are eager to please and provide.

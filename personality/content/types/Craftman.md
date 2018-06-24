@@ -1,8 +1,10 @@
 ---
 linktitle: Craftman
-title: Craftman
+title: You are a Craftman
 #Creator, Pioneer
 #type: ISTP
+description: Craftmans are observant artisans with an understanding of mechanics and an interest in troubleshooting.
+imageurl: img/craftman.jpg
 ---
 
 Craftmans are observant artisans with an understanding of mechanics and an interest in troubleshooting. They approach their environments with a flexible logic, looking for practical solutions to the problems at hand. They are independent and adaptable, and typically interact with the world around them in a self-directed, spontaneous manner.

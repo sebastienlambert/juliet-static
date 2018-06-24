@@ -7,6 +7,7 @@ paginate = 3
 theme = "hugo-dusk"
 publishDir = "../docs/personality"
 
+disableKinds=["RSS"]
 
 googleAnalytics = ""
 disqusShortname = ""
@@ -34,3 +35,4 @@ disqusShortname = ""
   #twitter = "twitter id"
   #linkedin = "linkedin id"
   facebook = "facebookid"
+  facebookappid = "1951043618485779"

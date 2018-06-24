@@ -1,7 +1,9 @@
 ---
 linktitle: Artist
-title: Artist
+title: You are an Artist
 #type: ISFP
+description: Artists are gentle caretakers who live in the present moment and enjoy their surroundings with cheerful, low-key enthusiasm.
+imageurl: img/artist.jpg
 ---
 
 Artists are gentle caretakers who live in the present moment and enjoy their surroundings with cheerful, low-key enthusiasm. They are flexible and spontaneous, and like to go with the flow to enjoy what life has to offer. Artists are quiet and unassuming, and may be hard to get to know. However, to those who know them well, the Artist is warm and friendly, eager to share in life's many experiences.

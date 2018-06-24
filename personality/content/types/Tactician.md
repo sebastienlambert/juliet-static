@@ -1,7 +1,9 @@
 ---
 linktitle: Tactician
-title: Tactician
+title: You are a Tactician
 #type: ISTJ
+description: Tacticians are responsible organizers, driven to create and enforce order within systems and institutions.
+imageurl: img/tactician.jpg
 ---
 
 Tacticians are responsible organizers, driven to create and enforce order within systems and institutions. They are neat and orderly, inside and out, and tend to have a procedure for everything they do. Reliable and dutiful, Tacticians want to uphold tradition and follow regulations.

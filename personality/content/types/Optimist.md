@@ -1,7 +1,9 @@
 ---
 linktitle: Optimist
-title: Optimist
+title: You are an Optimist
 #type: INFP
+description: Optimists are imaginative idealists, guided by their own core values and beliefs. 
+imageurl: img/optimist.jpg
 ---
 
 Optimists are imaginative idealists, guided by their own core values and beliefs. To a Healer, possibilities are paramount; the realism of the moment is only of passing concern. They see potential for a better future, and pursue truth and meaning with their own individual flair.

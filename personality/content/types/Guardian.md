@@ -1,7 +1,9 @@
 ---
 linktitle: Guardian
-title: Guardian
+title: You are a Guardian
 #type: ISFJ
+description: Guardians are industrious caretakers, loyal to traditions and organizations. 
+imageurl: img/guardian.jpg
 ---
 
 Guardians are industrious caretakers, loyal to traditions and organizations. They are practical, compassionate, and caring, and are motivated to provide for others and protect them from the perils of life.

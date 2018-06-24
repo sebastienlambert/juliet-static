@@ -2,6 +2,8 @@
 linktitle: Director
 title: Director
 #type : ESTJ
+description: Directors are hardworking traditionalists, eager to take charge in organizing projects and people.
+imageurl: img/director.jpg
 ---
 
 Directors are hardworking traditionalists, eager to take charge in organizing projects and people. Orderly, rule-abiding, and conscientious, Directors like to get things done, and tend to go about projects in a systematic, methodical way.

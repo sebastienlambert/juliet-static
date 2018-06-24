@@ -1,7 +1,9 @@
 ---
 linktitle: Entertainer
-title: Entertainer
+title: You are an Entertainer
 #type: ESFP
+description: Entertainers are vivacious entertainers who charm and engage those around them. 
+imageurl: img/entertainer.jpg
 ---
 
 Entertainers are vivacious entertainers who charm and engage those around them. They are spontaneous, energetic, and fun-loving, and take pleasure in the things around them: food, clothes, nature, animals, and especially people.

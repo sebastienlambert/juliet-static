@@ -1,7 +1,9 @@
 ---
 linktitle: Mentor
-title: Mentor
+title: You are a Mentor
 #type: INFJ
+description: Mentors are creative nurturers with a strong sense of personal integrity and a drive to help others realize their potential. 
+imageurl: img/mentor.jpg
 ---
 
 Mentors are creative nurturers with a strong sense of personal integrity and a drive to help others realize their potential. Creative and dedicated, they have a talent for helping others with original solutions to their personal challenges.

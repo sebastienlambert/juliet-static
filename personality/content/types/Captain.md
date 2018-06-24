@@ -1,7 +1,9 @@
 ---
 linktitle: Captain
-title: Captain
+title: You are a Captain
 #type:ENTJ
+description: Captains are strategic leaders, motivated to organize change. They are quick to see inefficiency and conceptualize new solutions, and enjoy developing long-range plans to accomplish their vision.
+imageurl: img/captain.jpg
 ---
 
 Captains are strategic leaders, motivated to organize change. They are quick to see inefficiency and conceptualize new solutions, and enjoy developing long-range plans to accomplish their vision. They excel at logical reasoning and are usually articulate and quick-witted.

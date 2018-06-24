@@ -4,11 +4,8 @@
 <meta name="description" content="{{ .Site.Params.meta.description }}" />
 <meta name="keywords" content="{{ .Site.Params.meta.keywords }}" />
 <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-
-<meta property="og:url" content="{{ .Permalink }}" />
-<meta property="og:title" content="{{ .Title }}" />
-<meta property="og:description" content="{{ .Description }}" />
 <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.imageurl }}" />
+<meta property="fb:app_id" content="{{ .Site.Params.facebookappid }}" />
 
 {{ .Hugo.Generator }}
 

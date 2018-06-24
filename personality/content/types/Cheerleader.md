@@ -1,7 +1,9 @@
 ---
 linktitle: Cheerleader
-title: Cheerleader
+title: You are a Cheerleader
 #type: ENFP
+description: Cheerleaders are people-centered creators with a focus on possibilities and a contagious enthusiasm for new ideas, people and activities.
+imageurl: img/cheerleader.jpg
 ---
 
 Cheerleaders are people-centered creators with a focus on possibilities and a contagious enthusiasm for new ideas, people and activities. Energetic, warm, and passionate, Cheerleaders love to help other people explore their creative potential.

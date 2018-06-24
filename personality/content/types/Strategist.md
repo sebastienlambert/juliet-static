@@ -1,7 +1,9 @@
 ---
 linktitle: Strategist
-title: Strategist
+title: You are a Strategist
 #type: INTJ
+description: Strategists are analytical problem-solvers, eager to improve systems and processes with their innovative ideas.
+imageurl: img/strategist.jpg
 ---
 
 Strategists are analytical problem-solvers, eager to improve systems and processes with their innovative ideas. They have a talent for seeing possibilities for improvement, whether at work, at home, or in themselves.
