@@ -3,8 +3,8 @@
  * main green: #2196F3
  * */
 
-body { background: #FFFFFF; color: #dbdbdb; }
-a { color: #dbdbdb; }
+body { background: #FFFFFF; color: #212121; }
+a { color: #212121; }
 pre { background: #1D1F21; border: 1px solid #5C5C5C; border-radius: 5px; }
 code { background: #1D1F21; }
 blockquote { background: #1D1F21; border-left: 3px solid #2196F3; }
